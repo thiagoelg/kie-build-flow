@@ -1,21 +1,21 @@
 [submodule "incubator-kie-drools"]
 	path = incubator-kie-drools
-	url = git@github.com:apache/incubator-kie-drools.git
+	url = git@github.com:thiagoelg/incubator-kie-drools.git
 [submodule "incubator-kie-optaplanner"]
 	path = incubator-kie-optaplanner
-	url = git@github.com:apache/incubator-kie-optaplanner.git
+	url = git@github.com:thiagoelg/incubator-kie-optaplanner.git
 [submodule "incubator-kie-kogito-runtimes"]
 	path = incubator-kie-kogito-runtimes
-	url = git@github.com:apache/incubator-kie-kogito-runtimes.git
+	url = git@github.com:thiagoelg/incubator-kie-kogito-runtimes.git
 [submodule "incubator-kie-kogito-apps"]
 	path = incubator-kie-kogito-apps
-	url = git@github.com:apache/incubator-kie-kogito-apps.git
+	url = git@github.com:thiagoelg/incubator-kie-kogito-apps.git
 [submodule "incubator-kie-kogito-images"]
 	path = incubator-kie-kogito-images
-	url = git@github.com:apache/incubator-kie-kogito-images.git
+	url = git@github.com:thiagoelg/incubator-kie-kogito-images.git
 [submodule "incubator-kie-sandbox-quarkus-accelerator"]
 	path = incubator-kie-sandbox-quarkus-accelerator
-	url = git@github.com:apache/incubator-kie-sandbox-quarkus-accelerator.git
+	url = git@github.com:thiagoelg/kie-sandbox-quarkus-template.git
 [submodule "incubator-kie-tools"]
 	path = incubator-kie-tools
-	url = git@github.com:apache/incubator-kie-tools.git
+	url = git@github.com:thiagoelg/kie-tools.git
