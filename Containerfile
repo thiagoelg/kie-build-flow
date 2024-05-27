@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 cruizba/ubuntu-dind:latest
+FROM --platform=linux/amd64 cruizba/ubuntu-dind:jammy-26.1.3
 
 SHELL ["/bin/bash", "-c"]
 

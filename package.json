@@ -2,7 +2,7 @@
   "name": "kie-build-flow",
   "version": "0.0.0",
   "scripts": {
-    "build-image": "docker buildx build --platform linux/arm64 . -f Containerfile -t kie-build-flow",
+    "build-image": "docker buildx build --platform linux/amd64 . -f Containerfile -t kie-build-flow",
     "run-image": "docker run -it --privileged kie-build-flow"
   },
   "dependencies": {},
